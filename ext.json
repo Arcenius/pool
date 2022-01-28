@@ -1,13 +1,30 @@
 {
- "info": {
-  "social": {
-   "twitter_handle": "stakeTREK"
-  },
-  "company": {},
-  "about": {}
- },
- "telegram-admin-handle": [],
- "my-pool-ids": [
-  "c6c0117e031cb813891a07439188fa3f3556fd7ee318d80a03d50fb6"
- ]
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Iowa, USA",
+        "social": {
+            "twitter_handle": "stakeTREK",
+            "telegram_handle": "https://t.me/joinchat/QbYw7UxAGi4yOWQx",
+            "facebook_handle": "https://www.facebook.com/groups/trekstakepool",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Married. Father of 5. Part-time Organic Farmer. TREK is your path to Cardano Staking.  The Journey Awaits. Let's TREK Together.",
+            "server": "",
+            "company": ""
+        }
+    }
 }
